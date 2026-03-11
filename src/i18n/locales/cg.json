@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "home": "घर",
+    "services": "सेवा मन",
+    "howItWorks": "कइसे काम करथे",
+    "marketplace": "बज़ार",
+    "login": "लॉगिन",
+    "signup": "खाता बनाव",
+    "dashboard": "डैशबोर्ड",
+    "logout": "लॉगआउट"
+  },
+  "hero": {
+    "title": "अपन लकर बिस्वासी",
+    "titleHighlight": "कारीगर खोजव",
+    "subtitle": "प्लंबर, बिजली मिस्त्री, बढ़ई अउ दूसर जांचे-परखे कारीगर मन ले जुड़व। सही दाम, भरोसेमंद सेवा, तुम्हार दरवाजा म।",
+    "findWorker": "कारीगर खोजव",
+    "becomeWorker": "कारीगर बनव",
+    "workers": "कारीगर",
+    "customers": "खुश ग्राहक",
+    "services": "सेवा",
+    "cities": "शहर"
+  },
+  "categories": {
+    "title": "हमर सेवा मन",
+    "subtitle": "हर जरूरत बर कुशल पेशेवर खोजव",
+    "plumber": "प्लंबर",
+    "plumberDesc": "पाइप फिटिंग, मरम्मत अउ इंस्टॉलेशन",
+    "electrician": "बिजली मिस्त्री",
+    "electricianDesc": "वायरिंग, मरम्मत अउ इंस्टॉलेशन",
+    "carpenter": "बढ़ई",
+    "carpenterDesc": "फर्नीचर बनाना अउ लकड़ी के काम",
+    "painter": "रंगाई वाले",
+    "painterDesc": "घर अउ ऑफिस पेंटिंग",
+    "welder": "वेल्डर",
+    "welderDesc": "धातु निर्माण अउ वेल्डिंग",
+    "cook": "रांधनी",
+    "cookDesc": "घर के खाना अउ केटरिंग",
+    "cleaner": "सफाई वाले",
+    "cleanerDesc": "घर अउ ऑफिस के सफाई",
+    "mechanic": "मैकेनिक",
+    "mechanicDesc": "गाड़ी मरम्मत अउ रख-रखाव",
+    "viewAll": "सबो सेवा देखव"
+  },
+  "howItWorks": {
+    "title": "कइसे काम करथे",
+    "subtitle": "4 आसान चरण म अपन काम करावव",
+    "step1Title": "खोजव",
+    "step1Desc": "सेवा अउ जगह के हिसाब ले सही कारीगर खोजव",
+    "step2Title": "चुनव",
+    "step2Desc": "प्रोफ़ाइल, रेटिंग अउ दर मन के तुलना करव",
+    "step3Title": "बुक करव",
+    "step3Desc": "अपन सुविधा ले घंटा या दिन के हिसाब ले बुक करव",
+    "step4Title": "पैसा देव अउ रेट करव",
+    "step4Desc": "सीधा पैसा देव अउ अपन अनुभव रेट करव"
+  },
+  "auth": {
+    "loginTitle": "वापस स्वागत हे",
+    "loginSubtitle": "अपन KARYAM खाता म साइन इन करव",
+    "signupTitle": "KARYAM ले जुड़व",
+    "signupSubtitle": "सुरू करे बर अपन खाता बनाव",
+    "customer": "मैं ग्राहक हंव",
+    "worker": "मैं कारीगर हंव",
+    "email": "ईमेल पता",
+    "phone": "फ़ोन नंबर",
+    "password": "पासवर्ड",
+    "fullName": "पूरा नाम",
+    "location": "जगह / शहर",
+    "login": "साइन इन",
+    "signup": "खाता बनाव",
+    "noAccount": "खाता नइ हे?",
+    "hasAccount": "पहिले ले खाता हे?"
+  },
+  "search": {
+    "searchPlaceholder": "तुम्हला कौन सी सेवा चाही?",
+    "locationPlaceholder": "तुम्हर जगह",
+    "search": "खोजव"
+  },
+  "footer": {
+    "brand": "KARYAM कार्यम्",
+    "brandDesc": "भरोसेमंद डिजिटल सेवा के माध्यम ले कुशल कारीगर मन ल सशक्त बनाना।",
+    "quickLinks": "जल्दी लिंक",
+    "copyright": "© 2026 KARYAM. सबो अधिकार सुरक्षित।"
+  },
+  "common": {
+    "loading": "लोड होवत हे...",
+    "rupee": "₹"
+  }
+}

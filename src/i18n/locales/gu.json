@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "હોમ",
+    "services": "સેવાઓ",
+    "howItWorks": "કેવી રીતે કામ કરે છે",
+    "marketplace": "બજાર",
+    "login": "લૉગિન",
+    "signup": "નોંધણી",
+    "dashboard": "ડૅશબોર્ડ",
+    "logout": "લૉગઆઉટ"
+  },
+  "hero": {
+    "title": "તમારી નજીકના વિશ્વસનીય",
+    "titleHighlight": "કારીગર શોધો",
+    "subtitle": "પ્લંબર, ઇલેક્ટ્રિશિયન, સુથાર અને ચકાસાયેલા કારીગરો સાથે જોડાઓ."
+  },
+  "categories": {
+    "title": "અમારી સેવાઓ",
+    "plumber": "પ્લંબર",
+    "electrician": "ઇલેક્ટ્રિશિયન",
+    "carpenter": "સુથાર",
+    "painter": "પેઇન્ટર",
+    "cook": "રસોઈયો",
+    "viewAll": "બધી સેવાઓ જુઓ"
+  },
+  "auth": {
+    "loginTitle": "પાછા સ્વાગત છે",
+    "customer": "હું ગ્રાહક છું",
+    "worker": "હું કારીગર છું",
+    "login": "સાઇન ઇન",
+    "signup": "ખાતા બનાવો"
+  },
+  "search": {
+    "searchPlaceholder": "તમને કઈ સેવા જોઈએ છે?",
+    "locationPlaceholder": "તમારું સ્થાન",
+    "search": "શોધો"
+  },
+  "footer": {
+    "brand": "KARYAM કાર્યમ્",
+    "copyright": "© 2026 KARYAM. બધા હક્કો અનામત."
+  },
+  "common": { "loading": "લોડ થઈ રહ્યું છે...", "rupee": "₹" }
+}

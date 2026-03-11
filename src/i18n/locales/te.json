@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "హోమ్",
+    "services": "సేవలు",
+    "howItWorks": "ఎలా పని చేస్తుంది",
+    "marketplace": "మార్కెట్",
+    "login": "లాగిన్",
+    "signup": "ఖాతా సృష్టించు",
+    "dashboard": "డాష్‌బోర్డ్",
+    "logout": "లాగౌట్"
+  },
+  "hero": {
+    "title": "మీ సమీపంలో నమ్మకమైన",
+    "titleHighlight": "పనివారిని కనుగొనండి",
+    "subtitle": "ప్లంబర్, ఎలక్ట్రీషియన్, వడ్రంగి మరియు ఇతర ధృవీకరించబడిన పనివారితో అనుసంధానం అవ్వండి."
+  },
+  "categories": {
+    "title": "మా సేవలు",
+    "plumber": "ప్లంబర్",
+    "electrician": "ఎలక్ట్రీషియన్",
+    "carpenter": "వడ్రంగి",
+    "painter": "పెయింటర్",
+    "cook": "వంటవాడు",
+    "viewAll": "అన్ని సేవలు చూడండి"
+  },
+  "auth": {
+    "loginTitle": "తిరిగి స్వాగతం",
+    "customer": "నేను కస్టమర్‌ని",
+    "worker": "నేను పనివాడిని",
+    "login": "సైన్ ఇన్",
+    "signup": "ఖాతా సృష్టించు"
+  },
+  "search": {
+    "searchPlaceholder": "మీకు ఏ సేవ కావాలి?",
+    "locationPlaceholder": "మీ ప్రదేశం",
+    "search": "శోధించు"
+  },
+  "footer": {
+    "brand": "KARYAM కార్యమ్",
+    "copyright": "© 2026 KARYAM. అన్ని హక్కులు రిజర్వ్."
+  },
+  "common": { "loading": "లోడ్ అవుతోంది...", "rupee": "₹" }
+}

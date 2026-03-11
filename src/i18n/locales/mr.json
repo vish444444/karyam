@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "मुख्यपृष्ठ",
+    "services": "सेवा",
+    "howItWorks": "कसे काम करते",
+    "marketplace": "बाजार",
+    "login": "लॉगिन",
+    "signup": "नोंदणी",
+    "dashboard": "डॅशबोर्ड",
+    "logout": "बाहेर पडा"
+  },
+  "hero": {
+    "title": "तुमच्या जवळचे विश्वासू",
+    "titleHighlight": "कारागीर शोधा",
+    "subtitle": "प्लंबर, इलेक्ट्रीशियन, सुतार आणि इतर सत्यापित कारागीरांशी जोडले जा. योग्य किंमत, विश्वसनीय सेवा.",
+    "findWorker": "कारागीर शोधा",
+    "becomeWorker": "कारागीर व्हा",
+    "workers": "कारागीर",
+    "customers": "समाधानी ग्राहक",
+    "services": "सेवा",
+    "cities": "शहरे"
+  },
+  "categories": {
+    "title": "आमच्या सेवा",
+    "subtitle": "प्रत्येक गरजेसाठी कुशल व्यावसायिक शोधा",
+    "plumber": "प्लंबर",
+    "electrician": "इलेक्ट्रीशियन",
+    "carpenter": "सुतार",
+    "painter": "रंगकाम करणारे",
+    "welder": "वेल्डर",
+    "cook": "स्वयंपाकी",
+    "cleaner": "सफाई कर्मचारी",
+    "mechanic": "मेकॅनिक",
+    "viewAll": "सर्व सेवा पहा"
+  },
+  "auth": {
+    "loginTitle": "पुन्हा स्वागत",
+    "customer": "मी ग्राहक आहे",
+    "worker": "मी कारागीर आहे",
+    "login": "साइन इन",
+    "signup": "खाते तयार करा"
+  },
+  "search": {
+    "searchPlaceholder": "तुम्हाला कोणती सेवा हवी आहे?",
+    "locationPlaceholder": "तुमचे ठिकाण",
+    "search": "शोधा"
+  },
+  "footer": {
+    "brand": "KARYAM कार्यम्",
+    "copyright": "© 2026 KARYAM. सर्व हक्क राखीव."
+  },
+  "common": {
+    "loading": "लोड होत आहे...",
+    "rupee": "₹"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "হোম",
+    "services": "পরিষেবা",
+    "howItWorks": "কীভাবে কাজ করে",
+    "marketplace": "বাজার",
+    "login": "লগইন",
+    "signup": "নিবন্ধন",
+    "dashboard": "ড্যাশবোর্ড",
+    "logout": "লগআউট"
+  },
+  "hero": {
+    "title": "আপনার কাছের বিশ্বস্ত",
+    "titleHighlight": "কর্মী খুঁজুন",
+    "subtitle": "প্লাম্বার, ইলেকট্রিশিয়ান, কাঠমিস্ত্রি এবং যাচাইকৃত কর্মীদের সাথে যুক্ত হন।"
+  },
+  "categories": {
+    "title": "আমাদের পরিষেবা",
+    "plumber": "প্লাম্বার",
+    "electrician": "ইলেকট্রিশিয়ান",
+    "carpenter": "কাঠমিস্ত্রি",
+    "painter": "পেইন্টার",
+    "cook": "রাঁধুনি",
+    "viewAll": "সমস্ত পরিষেবা দেখুন"
+  },
+  "auth": {
+    "loginTitle": "আবার স্বাগতম",
+    "customer": "আমি গ্রাহক",
+    "worker": "আমি কর্মী",
+    "login": "সাইন ইন",
+    "signup": "অ্যাকাউন্ট তৈরি করুন"
+  },
+  "search": {
+    "searchPlaceholder": "আপনার কী পরিষেবা দরকার?",
+    "locationPlaceholder": "আপনার অবস্থান",
+    "search": "অনুসন্ধান"
+  },
+  "footer": {
+    "brand": "KARYAM কার্যম্",
+    "copyright": "© 2026 KARYAM. সমস্ত অধিকার সংরক্ষিত।"
+  },
+  "common": { "loading": "লোড হচ্ছে...", "rupee": "₹" }
+}
