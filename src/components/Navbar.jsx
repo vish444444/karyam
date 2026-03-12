@@ -45,12 +45,21 @@ export default function Navbar() {
     <>
       <nav className={`navbar ${scrolled ? 'scrolled' : ''}`} id="main-navbar">
         <div className="navbar-inner">
-          <Link to="/" className="navbar-logo">
-            <div className="logo-icon">क</div>
-            <span>
-              <span className="gradient-text">KARYAM</span>
-              <span className="sanskrit"> कार्यम्</span>
-            </span>
+          <Link to="/" className="navbar-logo" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center' }}>
+            <img 
+              src={theme === 'dark' ? '/logo-dark.png' : '/logo-light.png'} 
+              alt="Karyam Glass Logo" 
+              style={{
+                height: '56px',
+                width: 'auto',
+                objectFit: 'cover',
+                objectPosition: 'center',
+                filter: 'drop-shadow(0 4px 6px rgba(0,0,0,0.15))',
+                transform: 'scale(1.8) translateY(2px)',
+                clipPath: 'inset(18% 18% 18% 18% round 8px)',
+                marginLeft: '12px'
+              }}
+            />
           </Link>
 
           <div className="navbar-links">

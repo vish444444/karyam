@@ -1,4 +1,4 @@
-import { lazy, Suspense } from 'react';
+import { lazy, Suspense, useState } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { ThemeProvider } from './context/ThemeContext';
 import { AuthProvider } from './context/AuthContext';
@@ -6,6 +6,7 @@ import './i18n/i18n';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import ChatWidget from './components/ChatWidget';
+import SplashScreen from './components/SplashScreen';
 import './index.css';
 
 // Lazy load pages for performance (rural network optimization)
@@ -25,6 +26,7 @@ function LoadingFallback() {
     </div>
   );
 }
+
 
 function AppContent() {
   return (
@@ -61,10 +63,16 @@ function AppContent() {
 }
 
 export default function App() {
+  const [showSplash, setShowSplash] = useState(true);
+
   return (
     <ThemeProvider>
       <AuthProvider>
-        <AppContent />
+        {showSplash ? (
+          <SplashScreen onComplete={() => setShowSplash(false)} />
+        ) : (
+          <AppContent />
+        )}
       </AuthProvider>
     </ThemeProvider>
   );
